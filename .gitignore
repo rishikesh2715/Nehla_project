@@ -1,0 +1,19 @@
+venv/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter/IPython checkpoint files
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# VSCode settings 
+.vscode/
